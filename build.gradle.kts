@@ -27,6 +27,15 @@ import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompile
 plugins {
   kotlin("multiplatform") apply false
   `maven-publish`
+  id("org.sonarqube") version "3.3"
+}
+
+sonarqube {
+  properties {
+    property "sonar.projectKey", "memkek_projector-client"
+    property "sonar.organization", "memkek"
+    property "sonar.host.url", "https://sonarcloud.io"
+  }
 }
 
 val kotlinVersion: String by project
