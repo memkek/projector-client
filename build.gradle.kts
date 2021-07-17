@@ -32,9 +32,9 @@ plugins {
 
 sonarqube {
   properties {
-    property "sonar.projectKey", "memkek_projector-client"
-    property "sonar.organization", "memkek"
-    property "sonar.host.url", "https://sonarcloud.io"
+    property ("sonar.projectKey", "memkek_projector-client")
+    property ("sonar.organization", "memkek")
+    property ("sonar.host.url", "https://sonarcloud.io")
   }
 }
 
