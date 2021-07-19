@@ -1,0 +1,3043 @@
+{
+  "modules": [
+    {
+      "name": "projector-client",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.docSrc",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/docSrc",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-common",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-common",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-ij-injector",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-ij-injector",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-initialization",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-initialization",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-common",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-swing",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-swing",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-web",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-web",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-common",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-common",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-launcher",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-launcher",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-server-core",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-server-core",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-agent",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-agent",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-logging",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.buildSrc",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/buildSrc",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-common.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-common/src/test",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-agent-common.main",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.javassist:javassist:3.27.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-common.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-common/src/main",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-agent-common/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.javassist:javassist:3.27.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-ij-injector.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-ij-injector/src/test",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-agent-ij-injector.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-agent-common.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-agent-initialization.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.javassist:javassist:3.27.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-ij-injector.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-ij-injector/src/main",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-agent-ij-injector/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-agent-common.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-agent-initialization.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.javassist:javassist:3.27.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-initialization.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-initialization/src/test",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-agent-initialization/src/test/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-agent-initialization.main",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: junit:junit:4.12",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.hamcrest:hamcrest-core:1.3",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-agent-initialization.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-agent-initialization/src/main",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-agent-initialization/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-common.jsMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common/build/externals/projector-client-projector-client-common/src",
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common/src/jsMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-client-common/src/jsMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-js:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-common.jsTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common/src/jsTest",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonTest",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-js:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-common.jvmMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common/src/jvmMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-client-common/src/jvmMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-common.jvmTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common/src/jvmTest",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonTest",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: junit:junit:4.12",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.hamcrest:hamcrest-core:1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-common.commonMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common/src/commonMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-client-common/src/commonMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-common.commonTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-common/src/commonTest",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-client-common/src/commonTest/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-swing.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-swing/src/test",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-client-swing.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.java-websocket:Java-WebSocket:1.5.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-api:1.7.25",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-client-swing.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-client-swing/src/main",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-client-swing/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-client-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.java-websocket:Java-WebSocket:1.5.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-api:1.7.25",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-common.jsMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-common/build/externals/projector-client-projector-common/src",
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/projector-common/src/jsMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-common/src/jsMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-common.jsTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-common/src/jsTest",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonTest",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-js:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-common.jvmMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-common/src/jvmMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-common/src/jvmMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-common.jvmTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-common/src/jvmTest",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonTest",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: junit:junit:4.12",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.hamcrest:hamcrest-core:1.3",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-common.commonMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-common/src/commonMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-common/src/commonMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-common.commonTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-common/src/commonTest",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-common/src/commonTest/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-annotations-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-server-core.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-server-core/src/test",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-server-core/src/test/kotlin",
+              "type": "TestSource",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-server-core.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.java-websocket:Java-WebSocket:1.5.1",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-agent-initialization.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-agent.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.javassist:javassist:3.27.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-simple:1.7.30",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: dnsjava:dnsjava:2.1.9",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jsoup:jsoup:1.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-api:1.7.30",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: junit:junit:4.12",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.hamcrest:hamcrest-core:1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-server-core.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-server-core/src/main",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-server-core/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.java-websocket:Java-WebSocket:1.5.1",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-agent-initialization.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-agent.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.javassist:javassist:3.27.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-simple:1.7.30",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: dnsjava:dnsjava:2.1.9",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jsoup:jsoup:1.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-api:1.7.30",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-server-core.intTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-server-core/src/intTest",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-server-core/src/intTest/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-server-core.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-common.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.java-websocket:Java-WebSocket:1.5.1",
+          "type": "Library"
+        },
+        {
+          "name": "projector-client.projector-agent-initialization.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-agent.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-websockets:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-server-netty:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-server-core:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.javassist:javassist:3.27.0-GA",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-simple:1.7.30",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: dnsjava:dnsjava:2.1.9",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.codeborne:selenide:5.22.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jsoup:jsoup:1.13.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test-junit:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-test:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-api:1.7.30",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.5.0-native-mt",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-codec-http2:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.eclipse.jetty.alpn:alpn-api:1.1.3.v20160715",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-transport-native-kqueue:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-transport-native-epoll:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.typesafe:config:1.3.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-client-cio-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.github.bonigarcia:webdrivermanager:4.4.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-java:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: junit:junit:4.12",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-http-cio-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-server-host-common:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-codec-http:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-handler:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-codec:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-transport:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-buffer:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-common:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-transport-native-unix-common:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-http-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-utils-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.httpcomponents.client5:httpclient5:5.0.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: commons-io:commons-io:2.8.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.code.gson:gson:2.8.6",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.commons:commons-lang3:3.12.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.rauschig:jarchivelib:1.1.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-chrome-driver:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-edge-driver:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-firefox-driver:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-ie-driver:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-opera-driver:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-safari-driver:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-support:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-remote-driver:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.seleniumhq.selenium:selenium-api:3.141.59",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: net.bytebuddy:byte-buddy:1.8.15",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.commons:commons-exec:1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.guava:guava:25.0-jre",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.squareup.okhttp3:okhttp:3.11.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.squareup.okio:okio:1.14.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.hamcrest:hamcrest-core:1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.netty:netty-resolver:4.1.63.Final",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-client-core-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-network-tls-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.httpcomponents.core5:httpcore5-h2:5.0.2",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.httpcomponents.core5:httpcore5:5.0.2",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: commons-codec:commons-codec:1.13",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.commons:commons-compress:1.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.code.findbugs:jsr305:1.3.9",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.checkerframework:checker-compat-qual:2.0.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.errorprone:error_prone_annotations:2.1.3",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.j2objc:j2objc-annotations:1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.14",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-network-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: io.ktor:ktor-io-jvm:1.6.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.slf4j:slf4j-api:1.7.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.httpcomponents.client5:httpclient5:5.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.guava:guava:30.1.1-jre",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-protobuf-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.2.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.httpcomponents.core5:httpcore5-h2:5.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.apache.httpcomponents.core5:httpcore5:5.1.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: commons-codec:commons-codec:1.15",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.guava:failureaccess:1.0.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.code.findbugs:jsr305:3.0.2",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.checkerframework:checker-qual:3.8.0",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.errorprone:error_prone_annotations:2.5.1",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: com.google.j2objc:j2objc-annotations:1.3",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-agent.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-agent/src/test",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-util-agent.main",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-agent.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-agent/src/main",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-util-agent/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-logging.jsMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging/build/externals/projector-client-projector-util-logging/src",
+          "sourceFolders": []
+        },
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging/src/jsMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-util-logging/src/jsMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-logging.jsTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging/src/jsTest",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonTest",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jsMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-logging.jvmMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging/src/jvmMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-util-logging/src/jvmMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-logging.jvmTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging/src/jvmTest",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonTest",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "projector-client.projector-util-logging.jvmMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.20",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-logging.commonMain",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging/src/commonMain",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/projector-util-logging/src/commonMain/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.projector-util-logging.commonTest",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/projector-util-logging/src/commonTest",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "Kotlin SDK",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.projector-util-logging.commonMain",
+          "type": "Module"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.buildSrc.test",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/buildSrc/src/test",
+          "sourceFolders": []
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "projector-client.buildSrc.main",
+          "type": "Module"
+        },
+        {
+          "name": "/data/cache/gradle/caches/7.1.1/generated-gradle-jars/gradle-api-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-ant-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-astbuilder-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-console-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-datetime-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-dateutil-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-groovydoc-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-json-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-nio-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-sql-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-templates-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-test-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-xml-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/javaparser-core-3.17.0.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-common-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-jdk7-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-jdk8-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-reflect-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/gradle-installation-beacon-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/caches/7.1.1/generated-gradle-jars/gradle-kotlin-dsl-extensions-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/gradle-kotlin-dsl-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/gradle-kotlin-dsl-tooling-models-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/caches/7.1.1/generated-gradle-jars/gradle-test-kit-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        },
+        {
+          "name": "/data/project/buildSrc/build/pluginUnderTestMetadata",
+          "type": "Library"
+        }
+      ]
+    },
+    {
+      "name": "projector-client.buildSrc.main",
+      "contentEntries": [
+        {
+          "path": "file://$PROJECT_DIR$/buildSrc/src/main",
+          "sourceFolders": [
+            {
+              "path": "file://$PROJECT_DIR$/buildSrc/src/main/kotlin",
+              "type": "Source",
+              "packagePrefix": ""
+            }
+          ]
+        }
+      ],
+      "orderEntries": [
+        {
+          "name": "corretto-11",
+          "type": "SDK"
+        },
+        {
+          "name": "<Module source>",
+          "type": "Own sources"
+        },
+        {
+          "name": "/data/cache/gradle/caches/7.1.1/generated-gradle-jars/gradle-api-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-ant-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-astbuilder-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-console-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-datetime-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-dateutil-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-groovydoc-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-json-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-nio-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-sql-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-templates-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-test-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/groovy-xml-3.0.7.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/javaparser-core-3.17.0.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-common-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-jdk7-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-stdlib-jdk8-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/kotlin-reflect-1.4.31.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/gradle-installation-beacon-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/caches/7.1.1/generated-gradle-jars/gradle-kotlin-dsl-extensions-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/gradle-kotlin-dsl-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "/data/cache/gradle/wrapper/dists/gradle-7.1.1-bin/f29rtwfnc96ub43tt7p47zsru/gradle-7.1.1/lib/gradle-kotlin-dsl-tooling-models-7.1.1.jar",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-reflect:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.31",
+          "type": "Library"
+        },
+        {
+          "name": "Gradle: org.jetbrains:annotations:13.0",
+          "type": "Library"
+        }
+      ]
+    }
+  ]
+}
