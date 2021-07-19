@@ -40,3 +40,13 @@ jobs:
       - run: sudo apt update && sudo apt install wine-stable -y
       - name: check projector-launcher building
         run: ./gradlew :projector-launcher:distZip
+
+  qodana:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Qodana
+        uses: JetBrains/qodana-action@v2.0-eap
+        with:
+          project-dir: ${{github.workspace}}
+          result-dir: ${{github.workspace}}/qodana
+          cache-dir: /home/runner/work/_temp/_github_home/qodana-cache
